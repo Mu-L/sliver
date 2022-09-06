@@ -50,7 +50,7 @@ require (
 	gorm.io/driver/mysql v1.0.3
 	gorm.io/driver/postgres v1.0.5
 	gorm.io/driver/sqlite v1.1.3
-	gorm.io/gorm v1.21.14
+	gorm.io/gorm v1.23.8
 	gvisor.dev/gvisor v0.0.0-20211020211948-f76a604701b6
 	modernc.org/sqlite v1.16.0
 )
@@ -91,7 +91,7 @@ require (
 	github.com/jackc/pgtype v1.5.0 // indirect
 	github.com/jackc/pgx/v4 v4.9.0 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
-	github.com/jinzhu/now v1.1.2 // indirect
+	github.com/jinzhu/now v1.1.4 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/lufia/plan9stats v0.0.0-20211012122336-39d0f177ccd0 // indirect
